@@ -1,3 +1,4 @@
 privite int age;
 privite String name;
 privite String master;
+privite String hehe;
